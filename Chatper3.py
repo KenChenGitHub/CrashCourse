@@ -37,3 +37,24 @@ print(family)
 family.remove('friend 2')
 family.remove('pops')
 print(family)
+
+#3-8
+locations = ["San Francisco", "Pheonix", "Houston", "Dallas", "New York"]
+print(locations)
+print(sorted(locations))
+print(locations)
+print(sorted(locations, reverse=True))
+print(locations)
+locations.reverse()
+print(locations)
+locations.reverse()
+print(locations)
+locations.sort()
+print(locations)
+locations.sort(reverse=True)
+print(locations)
+
+#3-9
+print(len(family))
+
+#3-10
